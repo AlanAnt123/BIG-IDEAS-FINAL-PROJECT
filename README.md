@@ -1,4 +1,4 @@
-Team ____
+Team Procrastination
 
 Alexander Velez: ajv130@pitt.edu
 Alan Antanovich: ACA125@pitt.edu
