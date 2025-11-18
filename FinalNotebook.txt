@@ -1,0 +1,17 @@
+Our project is about finding the safest neighborhood using data analysis and coding. we came up with the metric of safety as it is one of the most important metrics people look at before moving to or just traveling to any area. one alternative we considered is cleanliness but then we decided to do safety as we personally believe that being safe is more important that being clean.
+Our metric of safety is based on the sub metrics of fire incidents, crime data, and firearm seizures, and population, these metrics are all important contributing parts of safety. We chose fire incidents as that is one of the basic safety indicators, crime data because that shows how likely the chances of you being harmed by other people in the area are, we also chose firearm seizures to indicate how potentially volitile an area might be due to excess of illegal weapons there are in the area as more means the possibility of violence breaking out and people getting hurt due to the weapons is more likely even if its an accident, finally we chose population as we wanted to make all the submetrics percapita to make the statistics more accurate as 2 crimes in a neighborhood of 50 is alot more than 10 in a population of 10,000 but without the population metric you wouldn't see that.
+According to the statistics and our best neighborhood calculator the safest neighborhood is Squirrel Hill North 
+as this graph shows after calculating all of the incidents and them making them per captia.
+Top 10 Safest Neighborhoods Overall (All Incidents Per Capita):
+       Neighborhood  Average_per_capita
+Squirrel Hill North            0.013115
+     Swisshelm Park            0.015613
+      Regent Square            0.016134
+      New Homestead            0.020898
+    Stanton Heights            0.021144
+      North Oakland            0.021246
+Squirrel Hill South            0.023688
+           Westwood            0.024974
+       Point Breeze            0.025182
+        Morningside            0.025955
+Conclusions (see in personal notebooks)
